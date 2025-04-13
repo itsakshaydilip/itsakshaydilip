@@ -1,6 +1,5 @@
 
 ## 🚀 About Me
-I'm a full stack developer...
 
 Akshay Dilip Kumar is a 3D technical artist and texturing specialist in the field of game development and vfx. He has contributed to various projects and his proficiency extends beyond technical prowess incorporating adept interpersonal and problem-solving skills.
 ## 🛠 Skills
