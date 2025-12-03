@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Dilip Kumar</h1>
-<h3 align="center">Akshay Dilip Kumar is a 3D technical artist and texturing specialist in the field of game development and vfx. He has contributed to various projects and his proficiency extends beyond technical prowess incorporating adept interpersonal and problem-solving skills.</h3>
+<h3 align="center">Akshay Dilip Kumar is a 3D artist and texturing specialist in the field of game development and vfx. He has contributed to various projects and his proficiency extends beyond technical prowess incorporating adept interpersonal and problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsakshaydilip&label=Profile%20views&color=0e75b6&style=flat" alt="itsakshaydilip" /> </p>
 
